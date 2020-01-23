@@ -1,0 +1,4 @@
+[submodule "JiangyanFeng-PhD.github.io"]
+	path = JiangyanFeng-PhD.github.io
+	url = https://github.com/JiangyanFeng-PhD/JiangyanFeng-PhD.github.io.git
+	branch = master
