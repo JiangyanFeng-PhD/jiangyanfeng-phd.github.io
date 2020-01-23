@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Protein Dynamics | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/tags/protein-dynamics/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/tags/protein-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/protein-dynamics/</link>
+      <atom:link href="/tags/protein-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Protein Dynamics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>Protein Dynamics</title>
-      <link>https://JiangyanFeng-PhD.github.io/tags/protein-dynamics/</link>
+      <link>/tags/protein-dynamics/</link>
     </image>
     
     <item>
       <title>Molecular Dynamics Simulations of Nutrient Transport in Plants</title>
-      <link>https://JiangyanFeng-PhD.github.io/project/transporters/</link>
+      <link>/project/transporters/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/project/transporters/</guid>
+      <guid>/project/transporters/</guid>
       <description>&lt;p&gt;We focus on developing and employing machine learning, data science, and molecular modelling techqniues to understand the complex dynamic mechanisms of transporter proteins.&lt;/p&gt;
 &lt;p&gt;There are three key components:&lt;/p&gt;
 &lt;ol&gt;

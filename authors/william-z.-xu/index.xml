@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William Z. Xu | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/authors/william-z.-xu/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/authors/william-z.-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/william-z.-xu/</link>
+      <atom:link href="/authors/william-z.-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>William Z. Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>William Z. Xu</title>
-      <link>https://JiangyanFeng-PhD.github.io/authors/william-z.-xu/</link>
+      <link>/authors/william-z.-xu/</link>
     </image>
     
     <item>
       <title>In-Situ NMR Measurement of Reactivity Ratios for Copolymerization of Methyl Methacrylate and Diallyl Dimethylammonium Chloride</title>
-      <link>https://JiangyanFeng-PhD.github.io/publication/feng-2018/</link>
+      <link>/publication/feng-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/publication/feng-2018/</guid>
+      <guid>/publication/feng-2018/</guid>
       <description></description>
     </item>
     

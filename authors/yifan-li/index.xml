@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yifan Li | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/authors/yifan-li/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/authors/yifan-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yifan-li/</link>
+      <atom:link href="/authors/yifan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifan Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>Yifan Li</title>
-      <link>https://JiangyanFeng-PhD.github.io/authors/yifan-li/</link>
+      <link>/authors/yifan-li/</link>
     </image>
     
     <item>
       <title>Enhanced CO2 Separation Properties by Incorporating Poly(ethylene glycol)-containing Polymeric Submicrospheres into Polyimide Membrane</title>
-      <link>https://JiangyanFeng-PhD.github.io/publication/wang-2015/</link>
+      <link>/publication/wang-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/publication/wang-2015/</guid>
+      <guid>/publication/wang-2015/</guid>
       <description></description>
     </item>
     

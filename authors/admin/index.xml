@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/authors/admin/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiangyan Feng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>Jiangyan Feng</title>
-      <link>https://JiangyanFeng-PhD.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
     </image>
     
   </channel>

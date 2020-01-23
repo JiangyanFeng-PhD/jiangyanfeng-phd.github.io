@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPU | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/tags/gpu/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/gpu/</link>
+      <atom:link href="/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
     <description>GPU</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>GPU</title>
-      <link>https://JiangyanFeng-PhD.github.io/tags/gpu/</link>
+      <link>/tags/gpu/</link>
     </image>
     
     <item>
       <title>Optimization of Neural Network Convolution Layer through Parallel Programming</title>
-      <link>https://JiangyanFeng-PhD.github.io/project/parallel_programming/</link>
+      <link>/project/parallel_programming/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/project/parallel_programming/</guid>
+      <guid>/project/parallel_programming/</guid>
       <description>&lt;p&gt;We employed parallel programming optimization approaches for designing and implementing an optimized neural network convolution layer.&lt;/p&gt;
 &lt;p&gt;There are four major optimizations:&lt;/p&gt;
 &lt;ol&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bioinformatics | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/tags/bioinformatics/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bioinformatics/</link>
+      <atom:link href="/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>Bioinformatics</title>
-      <link>https://JiangyanFeng-PhD.github.io/tags/bioinformatics/</link>
+      <link>/tags/bioinformatics/</link>
     </image>
     
     <item>
       <title>Machine Learning for Protein Dynamics Prediction</title>
-      <link>https://JiangyanFeng-PhD.github.io/project/ml_ecs/</link>
+      <link>/project/ml_ecs/</link>
       <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/project/ml_ecs/</guid>
+      <guid>/project/ml_ecs/</guid>
       <description>&lt;p&gt;Proteins are dynamic molecules which perform diverse molecular functions by adopting different three-dimensional structures. Recent progress in coevolution contacts prediction opens up new avenues for the de novo protein structure prediction from sequence information. However, it is still difficult to predict more than one conformation from coevolution contacts alone. This is due to the inability to deconvolute the complex signals of coevolution contacts, i.e. spatial contacts relevant for protein folding, conformational diversity, and ligand binding.&lt;/p&gt;
 &lt;p&gt;Here, we introduce a machine learning based method, called FingerprintContacts, for extending the capabilities of coevolution contacts. We demonstrate the capabilities of FingerprintContacts on four ligand binding proteins with varying conformational motions. Furthermore, FingerprintContacts identifies small clusters of coevolution contacts which are preferentially located in the dynamically fluctuating regions. With the rapid growth in protein sequence information, we expect FingerprintContacts to be a powerful first step in structural understanding of protein functional mechanisms.&lt;/p&gt;
 </description>

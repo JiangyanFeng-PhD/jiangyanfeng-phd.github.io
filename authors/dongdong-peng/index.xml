@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dongdong Peng | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/authors/dongdong-peng/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/authors/dongdong-peng/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dongdong-peng/</link>
+      <atom:link href="/authors/dongdong-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongdong Peng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>Dongdong Peng</title>
-      <link>https://JiangyanFeng-PhD.github.io/authors/dongdong-peng/</link>
+      <link>/authors/dongdong-peng/</link>
     </image>
     
     <item>
       <title>Constructing Asymmetric Membranes via Surface Segregation for Efficient Carbon Capture</title>
-      <link>https://JiangyanFeng-PhD.github.io/publication/wang-2016/</link>
+      <link>/publication/wang-2016/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/publication/wang-2016/</guid>
+      <guid>/publication/wang-2016/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balaji Selvam * | Jiangyan Feng</title>
-    <link>https://JiangyanFeng-PhD.github.io/authors/balaji-selvam/</link>
-      <atom:link href="https://JiangyanFeng-PhD.github.io/authors/balaji-selvam/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/balaji-selvam/</link>
+      <atom:link href="/authors/balaji-selvam/index.xml" rel="self" type="application/rss+xml" />
     <description>Balaji Selvam *</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <url>/img/jiangyanfeng</url>
       <title>Balaji Selvam *</title>
-      <link>https://JiangyanFeng-PhD.github.io/authors/balaji-selvam/</link>
+      <link>/authors/balaji-selvam/</link>
     </image>
     
     <item>
       <title>Atomistic Insights into Dual Affinity Mechanism of NRT1.1 (submitted)</title>
-      <link>https://JiangyanFeng-PhD.github.io/publication/nrt_2020/</link>
+      <link>/publication/nrt_2020/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/publication/nrt_2020/</guid>
+      <guid>/publication/nrt_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Microscopy: Revealing Molecular Mechanisms in Plants using Molecular Dynamics Simulations</title>
-      <link>https://JiangyanFeng-PhD.github.io/publication/2019/</link>
+      <link>/publication/2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://JiangyanFeng-PhD.github.io/publication/2019/</guid>
+      <guid>/publication/2019/</guid>
       <description></description>
     </item>
     
