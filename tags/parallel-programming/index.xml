@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parallel Programming | Jiangyan Feng</title>
+    <link>https://JiangyanFeng-PhD.github.io/tags/parallel-programming/</link>
+      <atom:link href="https://JiangyanFeng-PhD.github.io/tags/parallel-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parallel Programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <title>Parallel Programming</title>
+      <link>https://JiangyanFeng-PhD.github.io/tags/parallel-programming/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of Neural Network Convolution Layer through Parallel Programming</title>
+      <link>https://JiangyanFeng-PhD.github.io/project/parallel_programming/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/project/parallel_programming/</guid>
+      <description>&lt;p&gt;We employed parallel programming optimization approaches for designing and implementing an optimized neural network convolution layer.&lt;/p&gt;
+&lt;p&gt;There are four major optimizations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Kernel fusion.&lt;/li&gt;
+&lt;li&gt;Optimizing grid and block dimensions.&lt;/li&gt;
+&lt;li&gt;Unrolling the for loop using restrict and pragma unroll.&lt;/li&gt;
+&lt;li&gt;Optimizing tile width for tiled matrix multiplication.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

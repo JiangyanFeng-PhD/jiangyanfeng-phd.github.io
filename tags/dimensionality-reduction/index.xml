@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimensionality Reduction | Jiangyan Feng</title>
+    <link>https://JiangyanFeng-PhD.github.io/tags/dimensionality-reduction/</link>
+      <atom:link href="https://JiangyanFeng-PhD.github.io/tags/dimensionality-reduction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimensionality Reduction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <title>Dimensionality Reduction</title>
+      <link>https://JiangyanFeng-PhD.github.io/tags/dimensionality-reduction/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Feature Selection for Dimensionality Reduction</title>
+      <link>https://JiangyanFeng-PhD.github.io/project/ga/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/project/ga/</guid>
+      <description>&lt;p&gt;Markov State Models (MSMs) are a powerful framework to reproduce the long-time conformational dynamics of biomolecules using a set of short Molecular Dynamics (MD) simulations. However, precise kinetics predictions of MSMs heavily rely on the features selected to describe the system. Despite the importance of feature selection for large system, determining an optimal set of features remains a difficult unsolved problem.&lt;/p&gt;
+&lt;p&gt;Here, we introduce an automatic approach to optimize feature selection based on genetic algorithms (GA), which adaptively evolves the most fitted solution according to natural selection laws. The power of the GA-based method is illustrated on long atomistic folding simulations of four proteins, varying in length from 28 to 80 residues. Due to the diversity of tested proteins, we expect that our method will be extensible to other proteins and drive MSM building to a more objective protocol.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

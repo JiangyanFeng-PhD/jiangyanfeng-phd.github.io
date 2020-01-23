@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining | Jiangyan Feng</title>
+    <link>https://JiangyanFeng-PhD.github.io/tags/data-mining/</link>
+      <atom:link href="https://JiangyanFeng-PhD.github.io/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Mining</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright><lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <title>Data Mining</title>
+      <link>https://JiangyanFeng-PhD.github.io/tags/data-mining/</link>
+    </image>
+    
+    <item>
+      <title>Pattern Discovery from DNA Sequences</title>
+      <link>https://JiangyanFeng-PhD.github.io/project/pattern_discover/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/project/pattern_discover/</guid>
+      <description>&lt;p&gt;We developed a “motif finding” program to discover patterns in DNA sequences and tested it against the benchmark.&lt;/p&gt;
+&lt;p&gt;There are three major components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Building a benchmark.&lt;/li&gt;
+&lt;li&gt;Implementing the “motif finder”.&lt;/li&gt;
+&lt;li&gt;Evaluating the motif finder on the benchmark and making intelligent inferences.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
