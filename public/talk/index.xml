@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Jiangyan Feng</title>
+    <link>https://JiangyanFeng-PhD.github.io/talk/</link>
+      <atom:link href="https://JiangyanFeng-PhD.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jiangyan Feng © 2020</copyright>
+    <image>
+      <url>https://JiangyanFeng-PhD.github.io/img/jiangyanfeng</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Elucidating Molecular Mechanism of Nitrate Transporters</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/oral_pru/</link>
+      <pubDate>Fri, 15 Nov 2019 12:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/talk/oral_pru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Nitrogen Use Efficiency in Plants for Sustainable Agriculture</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/oral_gsac_2019/</link>
+      <pubDate>Fri, 18 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/talk/oral_gsac_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How NarK Antiports Nitrate and Nitrite?</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/poster_grs/</link>
+      <pubDate>Sun, 23 Jun 2019 09:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/talk/poster_grs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Nitrogen Use Efficiency of Crops</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/oral_cic_2019/</link>
+      <pubDate>Fri, 03 May 2019 13:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/talk/oral_cic_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning of Protein Conformational Ensemble</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/poster_bps/</link>
+      <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/talk/poster_bps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Protein Conformational Dynamics using Evolutionary Couplings and Reinforcement Learning</title>
+      <link>https://JiangyanFeng-PhD.github.io/talk/poster_gsac_2018/</link>
+      <pubDate>Fri, 12 Oct 2018 09:00:00 +0000</pubDate>
+      <guid>https://JiangyanFeng-PhD.github.io/talk/poster_gsac_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
